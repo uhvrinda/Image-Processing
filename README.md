@@ -1,1 +1,1 @@
-# Image-Processing
+img=cv2.imread(dœg)
